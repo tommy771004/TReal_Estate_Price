@@ -1,0 +1,5 @@
+{
+  "name": "Taiwan Real Estate Price Explorer",
+  "description": "A macOS Liquid Glass styled application for querying real estate transaction prices in Taiwan using official open data.",
+  "requestFramePermissions": []
+}
